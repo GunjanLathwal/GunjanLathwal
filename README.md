@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **I'm Gunjan, a passionate Frontend Developer from India!
 
 Here are some ideas to get you started:
@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->                                       ![image](https://github.com/user-attachments/assets/937f1052-452e-47da-bf4f-0562fc5de95c)
+                       
 
 Let's connect 🤝
+
+LinkedIn: https://www.linkedin.com/in/gunjan-lathwal-021442289/
+
