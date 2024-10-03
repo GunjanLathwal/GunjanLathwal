@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**I'm Gunjan, a passionate Frontend Developer from India!**
+**I'm Gunjan, a passionate Software Developer from India!**
 
 Here are some ideas to get you started:
 
