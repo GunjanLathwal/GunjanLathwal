@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**I'm Gunjan, a passionate Software Developer from India!**
+**I'm Gunjan, a passionate Software Developer!**
 
 - 🔭 I’m currently learning Data Structures and algorithms in C++,Java 
 - 🌱 Working on Web develpment project using MERN
