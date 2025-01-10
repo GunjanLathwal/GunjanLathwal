@@ -11,5 +11,5 @@
 
 Let's connect 🤝
 
-LinkedIn: https://www.linkedin.com/in/gunjan-lathwal-021442289/
+LinkedIn: https://www.linkedin.com/in/gunjan-lathwal
 
